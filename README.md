@@ -134,5 +134,5 @@ Or use the run script:
 ## 👨‍💻 Author
 @nijint  
 
-Developed as part of a learning-focused AI experimentation workflow.
+(Developed as part of a learning-focused AI experimentation workflow)
 
