@@ -1,8 +1,5 @@
-# AI-Chatbot
-AI Chatbot — CustomTkinter Desktop Interface with Generative AI Integration
 
-
-# 🤖 AI Gemini Chatbot — Desktop Interface
+# 🤖 AI Chatbot — Desktop Interface
 
 A modular **Python-based AI chatbot** built with **CustomTkinter** that integrates Google’s Gemini Generative AI API into a lightweight desktop application.
 Designed for experimentation, academic prototyping, and rapid UI-driven AI workflows.
@@ -135,6 +132,6 @@ Or use the run script:
 ---
 
 ## 👨‍💻 Author
-
+NIJIN T
 Developed as part of a learning-focused AI experimentation workflow.
 
