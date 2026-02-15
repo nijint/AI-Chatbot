@@ -104,12 +104,6 @@ Or use the run script:
 * Ensure reproducible environments through dependency locking
 * Provide an entry-level experimentation platform for desktop AI tooling
 
----
-
-## 🔒 Security Notes
-
-* API keys are loaded via environment variables
-* `.env` and `venv/` are excluded using `.gitignore`
 
 ---
 
