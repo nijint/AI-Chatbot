@@ -55,7 +55,7 @@ ai-chatbot/
 Clone the repository:
 
 ```bash
-git clone https://github.com/nijint/AI-chatbot.git
+git clone https://github.com/nijint/AI-Chatbot.git
 cd ai-chatbot
 ```
 
