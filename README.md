@@ -56,7 +56,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/nijint/AI-Chatbot.git
-cd ai-chatbot
+cd AI-chatbot
 ```
 
 Create virtual environment:
@@ -93,7 +93,7 @@ python ui.py
 Or use the run script:
 
 ```bash
-./run.sh
+./run.sh   
 ```
 
 ---
